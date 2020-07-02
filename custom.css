@@ -1,0 +1,50 @@
+body{
+	background-color: #FFFFFF;
+}
+
+.error-code{
+	position: absolute;
+	width: 133px;
+	height: 25px;
+	left: 77px;
+	top: 40px;
+
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 25px;
+	letter-spacing: -0.08em;
+	text-transform: uppercase;
+
+	color: #333333;
+}
+
+.error-title{
+	font-family: Space Mono;
+	font-style: normal;
+	font-weight: bold;
+	font-size: xxx-large;
+	letter-spacing: -0.035em;
+}
+
+.error-description{
+	font-family: Space Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: large;
+	letter-spacing: -0.035em;
+}
+
+.back-button{
+	font-family: Space Mono;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 21px;
+	/* identical to box height */
+
+	letter-spacing: -0.035em;
+	text-transform: uppercase;
+	color: white;
+}
